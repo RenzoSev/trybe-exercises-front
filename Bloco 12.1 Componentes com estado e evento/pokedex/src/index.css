@@ -23,3 +23,8 @@ body {
   flex-wrap: wrap;
   margin: 10px 10px;
 }
+
+.pokeContainer {
+  display: flex;
+  justify-content: center;
+}
