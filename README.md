@@ -13,7 +13,7 @@ Basically __all Front-end Content__ is separated in these repository. The module
 1. Back-End
 1. Ciências da computação (Computer Science)
 ### ❗️ Observation
-__The content from Front-end are separeted in branchs__.
+__The content from Front-end are separeted in folders__.
 </br>
 ## 🧑‍🎨 About me
 ### Author:
