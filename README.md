@@ -1,4 +1,4 @@
-# 💚 Front-end - Trybe 💚:
+# 💚 Front-end - Trybe 💚
 > *__"A escola que te ensina a programar, a aprender e a trabalhar."__*
 ## :art: Repository :art:
 It includes all my exercises that I did at __Trybe__ in Front-end Module.
